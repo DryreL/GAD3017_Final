@@ -54,15 +54,7 @@
 			"Enabled": false
 		},
 		{
-			"Name": "ChaosNiagara",
-			"Enabled": false
-		},
-		{
 			"Name": "ChaosEditor",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosSolverPlugin",
 			"Enabled": false
 		},
 		{
@@ -132,6 +124,14 @@
 		{
 			"Name": "Niagara",
 			"Enabled": true
+		},
+		{
+			"Name": "ChaosSolverPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosNiagara",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
