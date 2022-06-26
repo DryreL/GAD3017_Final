@@ -136,6 +136,9 @@
 	],
 	"TargetPlatforms": [
 		"PS4",
-		"WindowsNoEditor"
+		"WindowsNoEditor",
+		"LinuxNoEditor",
+		"Android",
+		"MacNoEditor"
 	]
 }
