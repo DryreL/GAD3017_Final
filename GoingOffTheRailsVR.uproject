@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -11,7 +11,7 @@
 		},
 		{
 			"Name": "GoogleVRHMD",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "HPMotionController",
@@ -23,7 +23,7 @@
 		},
 		{
 			"Name": "WindowsMixedReality",
-			"Enabled": true,
+			"Enabled": false,
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"HoloLens"
@@ -83,7 +83,7 @@
 		},
 		{
 			"Name": "PerforceSourceControl",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "PhysXVehicles",
@@ -255,6 +255,14 @@
 		},
 		{
 			"Name": "MobileLauncherProfileWizard",
+			"Enabled": false
+		},
+		{
+			"Name": "DryreLUIEssentialsPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "FMODStudio",
 			"Enabled": false
 		}
 	],
